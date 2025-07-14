@@ -1,0 +1,8 @@
+[deps]
+BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
+Bonobo = "f7b14807-3d4d-461a-888a-05dd4bca8bc3"
+Gurobi = "2e9cd046-0924-5485-92f1-d5272153d98b"
+HiGHS = "87dc4568-4c63-4d18-b0c0-bb2238e4078b"
+MetaGraphs = "626554b9-1ddb-594c-aa3c-2596fe9399a5"
+SCIP = "82193955-e24f-5292-bf16-6f2c5261a85f"
+TravelingSalesmanExact = "737fac7d-4440-55ef-927e-002196e95561"
